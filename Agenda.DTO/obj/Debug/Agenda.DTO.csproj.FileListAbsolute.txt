@@ -1,0 +1,6 @@
+Z:\Felipe DEV\C#\AgendaTatto\Agenda\Agenda.DTO\bin\Debug\Agenda.DTO.dll
+Z:\Felipe DEV\C#\AgendaTatto\Agenda\Agenda.DTO\bin\Debug\Agenda.DTO.pdb
+Z:\Felipe DEV\C#\AgendaTatto\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.csprojAssemblyReference.cache
+Z:\Felipe DEV\C#\AgendaTatto\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.csproj.CoreCompileInputs.cache
+Z:\Felipe DEV\C#\AgendaTatto\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.dll
+Z:\Felipe DEV\C#\AgendaTatto\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.pdb
